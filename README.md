@@ -1,2 +1,2 @@
 # ArkCalc
-Ark calculator for breeding times
+Ark calculator for maturation times
