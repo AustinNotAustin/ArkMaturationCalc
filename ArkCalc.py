@@ -97,7 +97,6 @@ g_pad = 5
 gui = Tk()
 gui.title("Lil Tryke")
 gui.geometry("500x250")
-gui.iconbitmap('img/icon.ico')
 
 # Register tk to python callback
 callback = gui.register(only_num_input)
